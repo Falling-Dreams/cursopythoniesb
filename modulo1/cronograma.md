@@ -14,7 +14,7 @@ As aulas vão acontecer de 19/03 à 06/04.
   - Operadores matemáticos
   - Operadores lógicos
 
-- Aula 03 - 23/03 - JB5 - 11:00 às 13:00
+- Aula 03 - 23/03 - JB5 - 13:00 às 15:00
 
   - Resolução de exercícios
   - Listas
