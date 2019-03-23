@@ -21,4 +21,4 @@ def equacao_segundo_grau(a, b, c):
 
 
 
-print(equacao_segundo_grau(1,7,-8))
+print(equacao_segundo_grau(1,7,8))
