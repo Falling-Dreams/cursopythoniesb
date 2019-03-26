@@ -9,7 +9,6 @@ lista = ["Joao", 18, "Python", "Maria", 20, "C", -10]
 n = 0
 x = 0
 for element in range(len(lista)):
-	n = [x for x in lista if (isinstance(x, int))]
-	#or isinstance(x, long))]
+	n = [x for x in lista if (isinstance(x, int))]	
 	x = sum(n)
 print(x)
