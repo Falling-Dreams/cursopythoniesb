@@ -9,14 +9,14 @@ t = ''
 for element in lista:
 	n = [x for x in lista if (isinstance(x, int))]
 #Itera sobre a lista retornada, verificando se ha multiplo de 7
-for a in n:
-	if (a % 7 == 0):
-		s = "Sim"
+#for a in n:
+#	if (a % 7 == 0):
+#		s = "Sim"
 		
-	elif (a % 7 != 0) :
-		n = "Nao"
+#	elif (a % 7 != 0) :
+#		n = "Nao"
 
-	elif (a % 7 == 0 and a % 7 != 0):
-		t = s + "/" +  n
+#	elif (a % 7 == 0 and a % 7 != 0):
+#		t = s + "/" +  n
 
-print("Existem multiplos de 7: " + s + " " + n + " " + t)
+#print("Existem multiplos de 7: " + s + " " + n + " " + t)
