@@ -6,6 +6,6 @@ new worlds. To seek out new life and new civilizations. To boldly \
 go where no one has gone before! '
 palavras = []
 palavras = texto.split()
-print(palavras)
-#wordfreq = [palavras.count(p) for p in palavras]
-#print(dict(zip(palavras,wordfreq)))
+#print(palavras)
+wordfreq = [palavras.count(p) for p in palavras]
+print(dict(zip(palavras,wordfreq)))
