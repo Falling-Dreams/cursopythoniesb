@@ -29,7 +29,6 @@ As aulas vão acontecer de 19/03 à 06/04.
 
   - Resolução de exercícios
   - Funções
-  - Generator
 
 - Aula 06 - 30/03 - JB5- 11:00 às 12:30
 
@@ -37,11 +36,12 @@ As aulas vão acontecer de 19/03 à 06/04.
   - Tupla
   - Dicinário
   - List comprehesion
+  - Generator
 
 - Aula 07 - 02/04 - JB2/4 - 18:00 às 19:00
 
   - Resolução de exercícios
-  - Módulos importantes
+  - Set
   - Entrada e Saída
 
 - Aula 08 - 04/04 - JB2/4 - 18:00 às 19:00
