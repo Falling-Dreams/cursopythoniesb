@@ -1,3 +1,10 @@
+"""
+Avaliado por: Rodrigo Guimarãeas
+Nota: 10
+Observações: 
+    -
+"""
+
 #5. Crie uma calculadora capaz de fazer as operacoes de soma, subtracao, 
 #multiplicacao, divisao e potencia entre dois numeros.
 
