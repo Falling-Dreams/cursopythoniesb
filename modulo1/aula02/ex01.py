@@ -1,4 +1,11 @@
 """
+Avaliado por: Rodrigo Guimarãeas
+Nota: 8
+Observações: 
+    - (-2.0) Não irá calcular as raizes para delta == 0
+"""
+
+"""
 Crie um programa que dados os valores a, b, e c de uma 
 função de segundo grau, as raizes da equação. (y = a*x² + b*x + c)
 """
