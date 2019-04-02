@@ -1,0 +1,1000 @@
+Junho,Educação,1381.46
+Setembro,Transporte,372.15
+Dezembro,Vestuário,171.57
+Dezembro,Vestuário,108.2
+Agosto,Transporte,91.36
+Agosto,Habilitação,590.54
+Dezembro,Alimentação,202.39
+Janeiro,Saúde,578.49
+Outubro,Despesas Diversas,1355.48
+Abril,Despesas Diversas,456.34
+Agosto,Saúde,12.45
+Abril,Alimentação,60.4
+Outubro,Despesas Diversas,562.26
+Dezembro,Educação,108.2
+Abril,Alimentação,999.75
+Agosto,Habilitação,710.21
+Novembro,Alimentação,108.2
+Dezembro,Habilitação,214.65
+Março,Vestuário,1629.86
+Julho,Habilitação,315.0
+Junho,Alimentação,1167.74
+Janeiro,Habilitação,1467.51
+Maio,Transporte,1518.9
+Março,Alimentação,1411.8
+Dezembro,Serviços Pessoais,910.36
+Outubro,Alimentação,1295.08
+Junho,Serviços Pessoais,590.54
+Março,Despesas Diversas,1355.48
+Fevereiro,Despesas Diversas,1592.12
+Julho,Serviços Pessoais,1184.32
+Abril,Serviços Pessoais,834.87
+Maio,Habilitação,1238.32
+Março,Serviços Pessoais,1109.16
+Junho,Educação,77.31
+Agosto,Despesas Diversas,1520.13
+Março,Educação,850.9
+Fevereiro,Saúde,72.35
+Dezembro,Saúde,801.35
+Março,Serviços Pessoais,446.06
+Agosto,Transporte,77.31
+Setembro,Despesas Diversas,1330.83
+Junho,Vestuário,505.13
+Abril,Transporte,590.54
+Novembro,Vestuário,214.65
+Agosto,Habilitação,87.61
+Maio,Alimentação,1551.66
+Julho,Educação,1355.48
+Julho,Educação,845.79
+Maio,Transporte,111.53
+Julho,Educação,108.2
+Agosto,Despesas Diversas,135.22
+Março,Saúde,554.44
+Novembro,Alimentação,1551.98
+Janeiro,Vestuário,687.74
+Fevereiro,Despesas Diversas,951.85
+Dezembro,Transporte,1411.8
+Setembro,Despesas Diversas,1372.82
+Fevereiro,Alimentação,388.96
+Setembro,Vestuário,60.4
+Dezembro,Alimentação,1372.82
+Junho,Transporte,1136.02
+Abril,Vestuário,1540.1
+Setembro,Saúde,1428.68
+Fevereiro,Serviços Pessoais,801.35
+Maio,Alimentação,1498.52
+Janeiro,Vestuário,312.8
+Outubro,Educação,1321.19
+Junho,Alimentação,60.4
+Outubro,Educação,1321.19
+Março,Transporte,100.63
+Fevereiro,Habilitação,1265.6
+Dezembro,Saúde,845.79
+Setembro,Habilitação,710.21
+Dezembro,Transporte,21.88
+Setembro,Habilitação,87.61
+Maio,Transporte,1429.1
+Junho,Saúde,433.21
+Abril,Despesas Diversas,212.92
+Junho,Serviços Pessoais,1592.12
+Agosto,Serviços Pessoais,1428.68
+Setembro,Habilitação,77.31
+Dezembro,Educação,315.0
+Julho,Educação,1184.32
+Março,Serviços Pessoais,951.85
+Outubro,Alimentação,312.8
+Setembro,Despesas Diversas,77.31
+Outubro,Educação,21.88
+Junho,Educação,1109.16
+Fevereiro,Alimentação,1429.1
+Novembro,Serviços Pessoais,60.4
+Março,Saúde,687.74
+Junho,Vestuário,1185.85
+Abril,Alimentação,801.35
+Março,Educação,108.2
+Setembro,Transporte,77.31
+Junho,Educação,543.88
+Junho,Serviços Pessoais,1250.19
+Julho,Saúde,1372.82
+Novembro,Educação,334.92
+Janeiro,Vestuário,1135.65
+Outubro,Alimentação,182.42
+Dezembro,Habilitação,1540.1
+Novembro,Vestuário,597.05
+Junho,Saúde,951.85
+Janeiro,Saúde,1629.86
+Abril,Transporte,65.33
+Outubro,Alimentação,111.53
+Junho,Despesas Diversas,118.13
+Maio,Habilitação,459.76
+Julho,Educação,182.42
+Setembro,Alimentação,182.42
+Agosto,Habilitação,182.42
+Março,Habilitação,1498.52
+Junho,Vestuário,958.72
+Janeiro,Despesas Diversas,94.26
+Julho,Educação,604.12
+Fevereiro,Serviços Pessoais,562.26
+Outubro,Vestuário,12.45
+Outubro,Transporte,1048.11
+Outubro,Habilitação,1520.13
+Setembro,Habilitação,334.92
+Agosto,Vestuário,999.75
+Outubro,Transporte,65.33
+Maio,Saúde,1540.1
+Setembro,Alimentação,77.31
+Abril,Despesas Diversas,505.13
+Fevereiro,Despesas Diversas,999.75
+Março,Serviços Pessoais,1623.26
+Junho,Serviços Pessoais,312.8
+Dezembro,Educação,416.24
+Outubro,Transporte,1295.08
+Janeiro,Despesas Diversas,1381.46
+Setembro,Saúde,435.7
+Fevereiro,Despesas Diversas,850.9
+Setembro,Transporte,1498.52
+Janeiro,Despesas Diversas,1109.16
+Agosto,Serviços Pessoais,1629.86
+Agosto,Saúde,1551.98
+Junho,Despesas Diversas,1429.1
+Maio,Alimentação,1185.85
+Outubro,Saúde,1498.52
+Fevereiro,Vestuário,87.61
+Novembro,Serviços Pessoais,1184.32
+Abril,Saúde,156.08
+Maio,Habilitação,118.13
+Julho,Educação,893.07
+Março,Transporte,696.48
+Outubro,Despesas Diversas,435.7
+Março,Serviços Pessoais,1295.08
+Maio,Despesas Diversas,1623.26
+Julho,Serviços Pessoais,391.05
+Janeiro,Alimentação,1551.98
+Setembro,Saúde,687.74
+Setembro,Transporte,958.72
+Julho,Vestuário,687.74
+Dezembro,Serviços Pessoais,1458.32
+Março,Educação,91.36
+Janeiro,Habilitação,1629.86
+Novembro,Educação,1135.65
+Dezembro,Saúde,562.26
+Janeiro,Despesas Diversas,118.13
+Abril,Saúde,828.82
+Agosto,Transporte,334.92
+Fevereiro,Habilitação,554.44
+Janeiro,Vestuário,850.9
+Janeiro,Serviços Pessoais,361.61
+Julho,Serviços Pessoais,214.65
+Junho,Serviços Pessoais,202.39
+Abril,Vestuário,1540.1
+Março,Vestuário,1498.52
+Março,Habilitação,12.45
+Novembro,Educação,156.08
+Março,Alimentação,801.35
+Novembro,Educação,958.72
+Fevereiro,Transporte,135.22
+Julho,Alimentação,94.26
+Dezembro,Transporte,1520.13
+Novembro,Alimentação,834.87
+Junho,Vestuário,202.39
+Fevereiro,Habilitação,438.27
+Junho,Habilitação,1458.32
+Abril,Vestuário,1048.11
+Maio,Transporte,1518.9
+Junho,Alimentação,1265.6
+Fevereiro,Habilitação,416.24
+Junho,Transporte,1184.32
+Abril,Despesas Diversas,334.92
+Outubro,Educação,212.92
+Junho,Saúde,772.85
+Fevereiro,Serviços Pessoais,108.2
+Fevereiro,Despesas Diversas,1567.0
+Fevereiro,Vestuário,77.31
+Dezembro,Serviços Pessoais,604.12
+Julho,Transporte,1458.32
+Outubro,Vestuário,1381.46
+Setembro,Vestuário,893.07
+Junho,Despesas Diversas,598.28
+Agosto,Vestuário,1470.57
+Fevereiro,Alimentação,696.48
+Agosto,Vestuário,1321.19
+Março,Saúde,1411.8
+Janeiro,Vestuário,1372.82
+Maio,Serviços Pessoais,315.0
+Janeiro,Serviços Pessoais,171.57
+Janeiro,Alimentação,1184.32
+Outubro,Saúde,910.36
+Março,Alimentação,100.63
+Dezembro,Educação,438.27
+Março,Despesas Diversas,65.33
+Julho,Despesas Diversas,1346.97
+Maio,Despesas Diversas,1346.97
+Maio,Transporte,438.27
+Fevereiro,Vestuário,590.54
+Outubro,Despesas Diversas,1300.99
+Maio,Despesas Diversas,117.86
+Novembro,Habilitação,1545.92
+Dezembro,Saúde,12.45
+Agosto,Alimentação,951.85
+Novembro,Transporte,1250.19
+Julho,Educação,446.06
+Maio,Transporte,108.2
+Agosto,Transporte,182.42
+Janeiro,Saúde,687.74
+Março,Serviços Pessoais,951.85
+Abril,Alimentação,696.48
+Novembro,Alimentação,1540.1
+Julho,Habilitação,505.13
+Dezembro,Habilitação,156.08
+Dezembro,Educação,1238.32
+Junho,Despesas Diversas,111.53
+Outubro,Vestuário,696.48
+Junho,Educação,171.57
+Outubro,Educação,562.26
+Março,Transporte,1467.51
+Julho,Alimentação,562.26
+Agosto,Serviços Pessoais,1470.57
+Fevereiro,Vestuário,388.96
+Setembro,Saúde,214.65
+Julho,Serviços Pessoais,212.92
+Fevereiro,Alimentação,564.98
+Novembro,Serviços Pessoais,416.24
+Abril,Educação,935.72
+Março,Vestuário,77.31
+Fevereiro,Habilitação,77.31
+Maio,Saúde,604.12
+Janeiro,Serviços Pessoais,505.13
+Abril,Despesas Diversas,999.75
+Outubro,Habilitação,850.9
+Junho,Despesas Diversas,361.61
+Outubro,Habilitação,710.21
+Junho,Saúde,801.35
+Novembro,Educação,1136.02
+Julho,Vestuário,117.86
+Agosto,Transporte,958.72
+Março,Despesas Diversas,828.82
+Dezembro,Habilitação,834.87
+Setembro,Serviços Pessoais,674.14
+Agosto,Despesas Diversas,1109.16
+Novembro,Serviços Pessoais,590.54
+Maio,Transporte,1429.1
+Outubro,Transporte,1411.8
+Junho,Saúde,135.22
+Dezembro,Saúde,214.65
+Outubro,Saúde,834.87
+Fevereiro,Transporte,202.39
+Dezembro,Habilitação,438.27
+Janeiro,Alimentação,1109.16
+Dezembro,Educação,935.72
+Agosto,Habilitação,1458.32
+Fevereiro,Transporte,416.24
+Março,Alimentação,687.74
+Abril,Serviços Pessoais,391.05
+Agosto,Despesas Diversas,416.24
+Junho,Saúde,1551.66
+Novembro,Alimentação,1137.36
+Dezembro,Saúde,1428.68
+Maio,Habilitação,21.88
+Dezembro,Educação,578.49
+Fevereiro,Transporte,1135.65
+Dezembro,Habilitação,828.82
+Julho,Despesas Diversas,111.53
+Março,Transporte,391.05
+Novembro,Educação,111.53
+Março,Despesas Diversas,1498.52
+Agosto,Educação,1321.19
+Fevereiro,Vestuário,1540.1
+Junho,Saúde,1295.08
+Janeiro,Vestuário,1428.68
+Dezembro,Vestuário,1265.6
+Fevereiro,Educação,1592.12
+Março,Educação,1498.52
+Setembro,Saúde,1048.11
+Junho,Educação,1167.74
+Abril,Habilitação,416.24
+Julho,Educação,388.96
+Março,Transporte,1429.1
+Fevereiro,Despesas Diversas,87.61
+Março,Habilitação,1250.19
+Agosto,Saúde,1185.85
+Agosto,Habilitação,1321.19
+Abril,Saúde,564.98
+Maio,Habilitação,77.31
+Junho,Saúde,809.82
+Junho,Despesas Diversas,214.65
+Agosto,Educação,1429.1
+Agosto,Serviços Pessoais,1551.98
+Agosto,Transporte,118.13
+Janeiro,Saúde,214.65
+Abril,Serviços Pessoais,1598.87
+Maio,Educação,935.72
+Fevereiro,Despesas Diversas,1540.1
+Novembro,Alimentação,687.74
+Maio,Despesas Diversas,1381.46
+Maio,Educação,564.98
+Dezembro,Despesas Diversas,391.05
+Fevereiro,Educação,72.35
+Março,Educação,772.85
+Fevereiro,Transporte,87.61
+Dezembro,Alimentação,809.82
+Maio,Transporte,505.13
+Dezembro,Transporte,372.15
+Maio,Serviços Pessoais,214.65
+Abril,Despesas Diversas,578.49
+Maio,Serviços Pessoais,1429.1
+Dezembro,Transporte,1355.48
+Junho,Educação,156.08
+Janeiro,Vestuário,446.06
+Novembro,Despesas Diversas,438.27
+Setembro,Transporte,21.88
+Dezembro,Vestuário,334.92
+Junho,Alimentação,1592.12
+Novembro,Habilitação,433.21
+Setembro,Educação,554.44
+Março,Serviços Pessoais,1411.8
+Maio,Transporte,1458.32
+Outubro,Educação,1167.74
+Dezembro,Serviços Pessoais,1185.85
+Dezembro,Serviços Pessoais,60.4
+Dezembro,Vestuário,1355.48
+Dezembro,Saúde,1372.82
+Novembro,Transporte,65.33
+Junho,Habilitação,772.85
+Abril,Despesas Diversas,1545.92
+Novembro,Habilitação,604.12
+Janeiro,Saúde,65.33
+Fevereiro,Habilitação,435.7
+Junho,Despesas Diversas,361.61
+Dezembro,Alimentação,1109.16
+Dezembro,Transporte,334.92
+Junho,Educação,77.31
+Julho,Vestuário,315.0
+Setembro,Educação,446.06
+Julho,Educação,696.48
+Fevereiro,Habilitação,1372.82
+Março,Vestuário,1498.52
+Março,Habilitação,1109.16
+Junho,Despesas Diversas,562.26
+Agosto,Transporte,505.13
+Maio,Vestuário,1381.46
+Junho,Transporte,845.79
+Novembro,Transporte,590.54
+Abril,Transporte,1518.9
+Janeiro,Educação,12.45
+Outubro,Despesas Diversas,438.27
+Julho,Serviços Pessoais,1467.51
+Abril,Alimentação,1467.51
+Junho,Habilitação,1300.99
+Dezembro,Despesas Diversas,21.88
+Setembro,Despesas Diversas,935.72
+Setembro,Educação,12.45
+Agosto,Saúde,60.4
+Maio,Vestuário,1330.83
+Agosto,Alimentação,1592.12
+Janeiro,Habilitação,1238.32
+Janeiro,Transporte,845.79
+Dezembro,Educação,1109.16
+Outubro,Educação,1136.02
+Maio,Transporte,564.98
+Agosto,Serviços Pessoais,21.88
+Abril,Despesas Diversas,1250.19
+Outubro,Vestuário,674.14
+Julho,Saúde,1540.1
+Maio,Saúde,1184.32
+Julho,Serviços Pessoais,828.82
+Agosto,Transporte,935.72
+Junho,Alimentação,597.05
+Setembro,Alimentação,1167.74
+Maio,Alimentação,951.85
+Setembro,Saúde,171.57
+Novembro,Transporte,828.82
+Abril,Educação,710.21
+Julho,Vestuário,951.85
+Fevereiro,Alimentação,554.44
+Setembro,Vestuário,438.27
+Junho,Saúde,1346.97
+Setembro,Saúde,135.22
+Outubro,Habilitação,578.49
+Outubro,Educação,598.28
+Novembro,Alimentação,1458.32
+Junho,Saúde,1623.26
+Julho,Saúde,578.49
+Dezembro,Alimentação,1458.32
+Novembro,Vestuário,435.7
+Outubro,Alimentação,935.72
+Agosto,Educação,1109.16
+Fevereiro,Transporte,438.27
+Outubro,Despesas Diversas,60.4
+Agosto,Educação,372.15
+Novembro,Serviços Pessoais,1567.0
+Junho,Vestuário,100.63
+Fevereiro,Vestuário,1330.83
+Março,Serviços Pessoais,1567.0
+Setembro,Habilitação,1355.48
+Maio,Habilitação,1295.08
+Maio,Habilitação,91.36
+Fevereiro,Habilitação,1551.66
+Janeiro,Habilitação,1470.57
+Março,Transporte,910.36
+Março,Educação,72.35
+Maio,Serviços Pessoais,108.2
+Julho,Habilitação,1184.32
+Março,Vestuário,438.27
+Setembro,Habilitação,171.57
+Outubro,Saúde,446.06
+Maio,Transporte,1540.1
+Julho,Alimentação,1629.86
+Março,Alimentação,801.35
+Janeiro,Alimentação,1330.83
+Dezembro,Despesas Diversas,100.63
+Janeiro,Saúde,1137.36
+Janeiro,Saúde,12.45
+Julho,Habilitação,91.36
+Dezembro,Vestuário,1598.87
+Dezembro,Saúde,60.4
+Maio,Habilitação,212.92
+Julho,Serviços Pessoais,118.13
+Maio,Habilitação,1372.82
+Março,Despesas Diversas,1048.11
+Dezembro,Transporte,1467.51
+Fevereiro,Educação,433.21
+Outubro,Despesas Diversas,674.14
+Novembro,Serviços Pessoais,674.14
+Novembro,Serviços Pessoais,597.05
+Novembro,Saúde,135.22
+Junho,Alimentação,94.26
+Outubro,Transporte,1520.13
+Dezembro,Serviços Pessoais,91.36
+Novembro,Vestuário,1250.19
+Maio,Educação,1265.6
+Fevereiro,Saúde,674.14
+Novembro,Alimentação,1498.52
+Novembro,Despesas Diversas,334.92
+Setembro,Despesas Diversas,459.76
+Fevereiro,Transporte,696.48
+Junho,Habilitação,111.53
+Abril,Despesas Diversas,696.48
+Fevereiro,Despesas Diversas,433.21
+Novembro,Vestuário,435.7
+Junho,Habilitação,1623.26
+Janeiro,Educação,1498.52
+Outubro,Alimentação,1265.6
+Maio,Vestuário,1355.48
+Junho,Transporte,1321.19
+Fevereiro,Vestuário,1250.19
+Janeiro,Alimentação,1135.65
+Outubro,Saúde,391.05
+Abril,Despesas Diversas,834.87
+Julho,Transporte,1411.8
+Fevereiro,Transporte,809.82
+Janeiro,Vestuário,12.45
+Janeiro,Saúde,361.61
+Janeiro,Vestuário,433.21
+Abril,Saúde,1429.1
+Dezembro,Despesas Diversas,710.21
+Setembro,Alimentação,1250.19
+Junho,Serviços Pessoais,845.79
+Março,Saúde,77.31
+Abril,Educação,1551.66
+Outubro,Transporte,1185.85
+Agosto,Vestuário,60.4
+Outubro,Vestuário,674.14
+Fevereiro,Serviços Pessoais,687.74
+Novembro,Saúde,1295.08
+Abril,Saúde,1346.97
+Fevereiro,Vestuário,456.34
+Julho,Serviços Pessoais,1109.16
+Outubro,Educação,1629.86
+Janeiro,Habilitação,1330.83
+Setembro,Habilitação,391.05
+Dezembro,Vestuário,590.54
+Maio,Vestuário,1428.68
+Novembro,Serviços Pessoais,1429.1
+Dezembro,Serviços Pessoais,1355.48
+Agosto,Saúde,772.85
+Dezembro,Transporte,108.2
+Abril,Educação,1346.97
+Outubro,Transporte,1551.66
+Agosto,Educação,388.96
+Setembro,Despesas Diversas,77.31
+Novembro,Saúde,1520.13
+Janeiro,Saúde,598.28
+Abril,Serviços Pessoais,91.36
+Junho,Educação,1518.9
+Outubro,Despesas Diversas,834.87
+Março,Despesas Diversas,1623.26
+Fevereiro,Serviços Pessoais,505.13
+Outubro,Habilitação,1295.03
+Abril,Vestuário,1330.83
+Março,Despesas Diversas,1551.98
+Abril,Transporte,21.88
+Novembro,Vestuário,505.13
+Maio,Serviços Pessoais,438.27
+Setembro,Alimentação,60.4
+Março,Habilitação,171.57
+Setembro,Transporte,1498.52
+Maio,Saúde,696.48
+Abril,Educação,334.92
+Maio,Habilitação,435.7
+Junho,Habilitação,1137.36
+Julho,Habilitação,564.98
+Julho,Habilitação,505.13
+Agosto,Educação,564.98
+Dezembro,Saúde,1321.19
+Setembro,Despesas Diversas,1048.11
+Março,Educação,212.92
+Novembro,Alimentação,100.63
+Maio,Saúde,772.85
+Junho,Saúde,543.88
+Março,Alimentação,214.65
+Setembro,Vestuário,1135.65
+Fevereiro,Vestuário,590.54
+Março,Serviços Pessoais,1623.26
+Junho,Transporte,1185.85
+Setembro,Alimentação,1629.86
+Junho,Habilitação,590.54
+Julho,Serviços Pessoais,1184.32
+Julho,Vestuário,1330.83
+Abril,Vestuário,65.33
+Novembro,Vestuário,1295.03
+Janeiro,Serviços Pessoais,1265.6
+Janeiro,Vestuário,416.24
+Abril,Educação,1048.11
+Abril,Serviços Pessoais,910.36
+Fevereiro,Vestuário,604.12
+Abril,Habilitação,12.45
+Abril,Saúde,212.92
+Novembro,Saúde,1295.03
+Dezembro,Alimentação,801.35
+Julho,Alimentação,604.12
+Julho,Habilitação,1250.19
+Maio,Serviços Pessoais,1300.99
+Janeiro,Educação,65.33
+Janeiro,Despesas Diversas,87.61
+Maio,Despesas Diversas,801.35
+Janeiro,Saúde,312.8
+Novembro,Vestuário,951.85
+Abril,Alimentação,696.48
+Novembro,Saúde,696.48
+Fevereiro,Serviços Pessoais,1048.11
+Junho,Educação,1167.74
+Maio,Habilitação,1467.51
+Janeiro,Serviços Pessoais,578.49
+Junho,Alimentação,1321.19
+Fevereiro,Serviços Pessoais,94.26
+Dezembro,Vestuário,1411.8
+Fevereiro,Serviços Pessoais,1540.1
+Setembro,Vestuário,1551.66
+Dezembro,Serviços Pessoais,1429.1
+Dezembro,Educação,1250.19
+Janeiro,Alimentação,111.53
+Janeiro,Despesas Diversas,1551.98
+Janeiro,Alimentação,505.13
+Outubro,Habilitação,1295.03
+Maio,Transporte,459.76
+Dezembro,Educação,372.15
+Dezembro,Habilitação,1346.97
+Setembro,Saúde,94.26
+Novembro,Saúde,1458.32
+Dezembro,Alimentação,391.05
+Dezembro,Serviços Pessoais,674.14
+Setembro,Transporte,562.26
+Janeiro,Serviços Pessoais,315.0
+Junho,Vestuário,117.86
+Dezembro,Alimentação,1518.9
+Julho,Transporte,416.24
+Agosto,Transporte,1429.1
+Abril,Transporte,1467.51
+Setembro,Saúde,554.44
+Fevereiro,Transporte,674.14
+Abril,Educação,1355.48
+Janeiro,Vestuário,935.72
+Abril,Despesas Diversas,72.35
+Março,Despesas Diversas,433.21
+Setembro,Educação,1167.74
+Junho,Saúde,958.72
+Fevereiro,Vestuário,1321.19
+Agosto,Educação,118.13
+Março,Despesas Diversas,578.49
+Janeiro,Habilitação,562.26
+Julho,Vestuário,1551.66
+Março,Vestuário,598.28
+Outubro,Alimentação,391.05
+Abril,Vestuário,108.2
+Outubro,Vestuário,505.13
+Novembro,Despesas Diversas,1467.51
+Dezembro,Transporte,65.33
+Junho,Educação,1381.46
+Agosto,Alimentação,543.88
+Setembro,Despesas Diversas,850.9
+Janeiro,Serviços Pessoais,1520.13
+Junho,Serviços Pessoais,372.15
+Maio,Alimentação,21.88
+Agosto,Educação,108.2
+Dezembro,Transporte,1167.74
+Agosto,Vestuário,1330.83
+Junho,Despesas Diversas,334.92
+Novembro,Serviços Pessoais,446.06
+Abril,Transporte,604.12
+Abril,Despesas Diversas,212.92
+Fevereiro,Despesas Diversas,435.7
+Janeiro,Saúde,388.96
+Maio,Transporte,21.88
+Janeiro,Saúde,372.15
+Junho,Despesas Diversas,1238.32
+Setembro,Saúde,1551.66
+Setembro,Alimentação,801.35
+Julho,Vestuário,65.33
+Outubro,Educação,118.13
+Fevereiro,Vestuário,1135.65
+Março,Transporte,77.31
+Setembro,Serviços Pessoais,459.76
+Outubro,Educação,1330.83
+Janeiro,Alimentação,1467.51
+Maio,Habilitação,456.34
+Agosto,Saúde,1136.02
+Novembro,Alimentação,108.2
+Abril,Saúde,135.22
+Abril,Vestuário,590.54
+Abril,Despesas Diversas,156.08
+Setembro,Saúde,1048.11
+Setembro,Habilitação,87.61
+Janeiro,Saúde,1185.85
+Agosto,Habilitação,372.15
+Maio,Educação,1167.74
+Dezembro,Despesas Diversas,388.96
+Fevereiro,Despesas Diversas,388.96
+Dezembro,Educação,1109.16
+Janeiro,Despesas Diversas,1567.0
+Julho,Habilitação,1540.1
+Fevereiro,Saúde,564.98
+Julho,Despesas Diversas,334.92
+Outubro,Alimentação,1470.57
+Fevereiro,Habilitação,446.06
+Novembro,Serviços Pessoais,850.9
+Março,Alimentação,850.9
+Novembro,Transporte,435.7
+Dezembro,Despesas Diversas,834.87
+Maio,Habilitação,999.75
+Fevereiro,Despesas Diversas,214.65
+Setembro,Serviços Pessoais,1623.26
+Janeiro,Despesas Diversas,72.35
+Junho,Habilitação,1300.99
+Fevereiro,Despesas Diversas,388.96
+Abril,Alimentação,312.8
+Dezembro,Transporte,100.63
+Novembro,Transporte,1623.26
+Maio,Vestuário,1551.66
+Setembro,Alimentação,1381.46
+Junho,Alimentação,1184.32
+Agosto,Saúde,1551.98
+Janeiro,Despesas Diversas,772.85
+Fevereiro,Educação,935.72
+Março,Saúde,834.87
+Fevereiro,Educação,202.39
+Setembro,Alimentação,65.33
+Setembro,Despesas Diversas,446.06
+Fevereiro,Despesas Diversas,1567.0
+Março,Transporte,1428.68
+Agosto,Transporte,893.07
+Junho,Serviços Pessoais,1135.65
+Janeiro,Serviços Pessoais,1551.66
+Junho,Transporte,315.0
+Março,Vestuário,388.96
+Março,Despesas Diversas,1470.57
+Março,Despesas Diversas,1592.12
+Março,Transporte,505.13
+Maio,Transporte,604.12
+Setembro,Serviços Pessoais,597.05
+Outubro,Alimentação,1265.6
+Maio,Alimentação,845.79
+Outubro,Educação,958.72
+Agosto,Alimentação,687.74
+Fevereiro,Serviços Pessoais,1545.92
+Junho,Educação,108.2
+Setembro,Serviços Pessoais,562.26
+Fevereiro,Transporte,772.85
+Agosto,Despesas Diversas,604.12
+Dezembro,Saúde,91.36
+Novembro,Serviços Pessoais,100.63
+Maio,Serviços Pessoais,1300.99
+Janeiro,Despesas Diversas,372.15
+Outubro,Educação,543.88
+Agosto,Serviços Pessoais,1467.51
+Julho,Transporte,1411.8
+Junho,Saúde,182.42
+Agosto,Vestuário,935.72
+Abril,Despesas Diversas,1048.11
+Janeiro,Alimentação,1295.08
+Setembro,Transporte,77.31
+Novembro,Educação,135.22
+Dezembro,Vestuário,108.2
+Outubro,Serviços Pessoais,710.21
+Dezembro,Habilitação,171.57
+Junho,Alimentação,1567.0
+Fevereiro,Educação,135.22
+Dezembro,Serviços Pessoais,135.22
+Setembro,Educação,710.21
+Janeiro,Educação,1518.9
+Outubro,Educação,1185.85
+Março,Vestuário,1136.02
+Agosto,Educação,1295.03
+Fevereiro,Saúde,543.88
+Abril,Serviços Pessoais,590.54
+Agosto,Alimentação,1355.48
+Agosto,Vestuário,1048.11
+Novembro,Despesas Diversas,456.34
+Janeiro,Alimentação,562.26
+Março,Despesas Diversas,935.72
+Dezembro,Saúde,564.98
+Maio,Alimentação,214.65
+Agosto,Educação,416.24
+Setembro,Habilitação,77.31
+Agosto,Serviços Pessoais,1470.57
+Outubro,Alimentação,1458.32
+Dezembro,Saúde,1429.1
+Agosto,Habilitação,1300.99
+Fevereiro,Despesas Diversas,1295.08
+Outubro,Vestuário,77.31
+Setembro,Alimentação,1372.82
+Março,Educação,604.12
+Dezembro,Serviços Pessoais,564.98
+Maio,Educação,590.54
+Fevereiro,Transporte,1623.26
+Junho,Educação,1135.65
+Abril,Despesas Diversas,312.8
+Junho,Despesas Diversas,91.36
+Junho,Educação,1372.82
+Agosto,Saúde,202.39
+Outubro,Serviços Pessoais,1551.98
+Março,Alimentação,597.05
+Dezembro,Habilitação,1136.02
+Novembro,Serviços Pessoais,845.79
+Junho,Despesas Diversas,1520.13
+Agosto,Transporte,801.35
+Julho,Vestuário,801.35
+Dezembro,Saúde,1109.16
+Maio,Despesas Diversas,1185.85
+Maio,Educação,1540.1
+Dezembro,Alimentação,543.88
+Novembro,Saúde,156.08
+Agosto,Vestuário,94.26
+Julho,Saúde,999.75
+Julho,Habilitação,1321.19
+Setembro,Saúde,1498.52
+Abril,Saúde,834.87
+Setembro,Vestuário,1136.02
+Novembro,Saúde,564.98
+Novembro,Saúde,935.72
+Junho,Serviços Pessoais,1265.6
+Maio,Educação,1629.86
+Março,Alimentação,1411.8
+Dezembro,Serviços Pessoais,1185.85
+Fevereiro,Serviços Pessoais,1592.12
+Maio,Alimentação,111.53
+Maio,Serviços Pessoais,315.0
+Setembro,Serviços Pessoais,438.27
+Março,Vestuário,1467.51
+Outubro,Serviços Pessoais,118.13
+Setembro,Alimentação,361.61
+Setembro,Habilitação,100.63
+Março,Alimentação,801.35
+Janeiro,Educação,1184.32
+Novembro,Serviços Pessoais,202.39
+Agosto,Transporte,801.35
+Junho,Saúde,834.87
+Agosto,Vestuário,674.14
+Abril,Educação,564.98
+Julho,Alimentação,1467.51
+Fevereiro,Alimentação,312.8
+Outubro,Alimentação,361.61
+Fevereiro,Despesas Diversas,1518.9
+Dezembro,Alimentação,554.44
+Fevereiro,Educação,118.13
+Julho,Habilitação,315.0
+Fevereiro,Habilitação,100.63
+Junho,Alimentação,999.75
+Novembro,Alimentação,1520.13
+Setembro,Despesas Diversas,1545.92
+Agosto,Educação,1551.98
+Agosto,Saúde,391.05
+Fevereiro,Habilitação,118.13
+Junho,Educação,1135.65
+Agosto,Vestuário,554.44
+Agosto,Serviços Pessoais,1238.32
+Janeiro,Alimentação,696.48
+Março,Serviços Pessoais,214.65
+Julho,Educação,118.13
+Outubro,Transporte,438.27
+Junho,Alimentação,845.79
+Novembro,Saúde,1429.1
+Abril,Educação,1167.74
+Outubro,Vestuário,1545.92
+Fevereiro,Alimentação,1428.68
+Julho,Habilitação,801.35
+Junho,Vestuário,590.54
+Dezembro,Serviços Pessoais,438.27
+Março,Serviços Pessoais,456.34
+Agosto,Educação,1250.19
+Dezembro,Serviços Pessoais,361.61
+Abril,Vestuário,850.9
+Novembro,Serviços Pessoais,598.28
+Fevereiro,Habilitação,1429.1
+Fevereiro,Educação,334.92
+Janeiro,Serviços Pessoais,505.13
+Novembro,Transporte,772.85
+Outubro,Despesas Diversas,214.65
+Janeiro,Serviços Pessoais,564.98
+Maio,Serviços Pessoais,212.92
+Março,Despesas Diversas,171.57
+Março,Vestuário,12.45
+Junho,Habilitação,1629.86
+Novembro,Transporte,72.35
+Abril,Despesas Diversas,1184.32
+Novembro,Habilitação,312.8
+Junho,Transporte,171.57
+Janeiro,Saúde,135.22
+Outubro,Vestuário,1295.03
+Abril,Serviços Pessoais,1629.86
+Maio,Despesas Diversas,1184.32
+Janeiro,Alimentação,459.76
+Julho,Educação,505.13
+Junho,Serviços Pessoais,564.98
+Junho,Serviços Pessoais,578.49
+Fevereiro,Serviços Pessoais,21.88
+Agosto,Alimentação,562.26
+Maio,Saúde,433.21
+Julho,Serviços Pessoais,1250.19
+Agosto,Saúde,801.35
+Março,Alimentação,111.53
+Outubro,Alimentação,1629.86
+Maio,Vestuário,312.8
+Julho,Educação,459.76
+Outubro,Despesas Diversas,1545.92
+Novembro,Transporte,1238.32
+Novembro,Habilitação,543.88
+Maio,Serviços Pessoais,1520.13
+Julho,Transporte,391.05
+Janeiro,Saúde,1346.97
+Março,Habilitação,687.74
+Abril,Saúde,578.49
+Dezembro,Saúde,334.92
+Julho,Serviços Pessoais,446.06
+Outubro,Saúde,1545.92
+Novembro,Alimentação,388.96
+Junho,Transporte,91.36
+Julho,Serviços Pessoais,315.0
+Janeiro,Habilitação,433.21
+Setembro,Saúde,100.63
+Julho,Alimentação,1598.87
+Junho,Despesas Diversas,334.92
+Fevereiro,Educação,1372.82
+Outubro,Habilitação,111.53
+Novembro,Educação,214.65
+Outubro,Transporte,1551.98
+Outubro,Educação,1137.36
+Abril,Vestuário,1372.82
+Maio,Saúde,1295.03
+Março,Educação,21.88
+Abril,Transporte,578.49
+Novembro,Saúde,334.92
+Novembro,Educação,828.82
+Janeiro,Vestuário,1518.9
+Junho,Habilitação,562.26
+Março,Serviços Pessoais,182.42
+Outubro,Saúde,117.86
+Julho,Saúde,1048.11
+Junho,Serviços Pessoais,391.05
+Julho,Transporte,135.22
+Julho,Despesas Diversas,1135.65
+Junho,Despesas Diversas,543.88
+Agosto,Vestuário,1372.82
+Maio,Serviços Pessoais,590.54
+Julho,Despesas Diversas,1250.19
+Setembro,Alimentação,772.85
+Junho,Vestuário,1135.65
+Julho,Saúde,828.82
+Julho,Transporte,1346.97
+Maio,Alimentação,1355.48
+Fevereiro,Vestuário,999.75
+Agosto,Serviços Pessoais,850.9
+Janeiro,Alimentação,999.75
+Fevereiro,Serviços Pessoais,1518.9
+Novembro,Vestuário,111.53
+Abril,Vestuário,315.0
+Outubro,Despesas Diversas,446.06
+Outubro,Educação,94.26
+Abril,Serviços Pessoais,12.45
+Junho,Habilitação,935.72
+Julho,Habilitação,562.26
+Outubro,Despesas Diversas,433.21
+Julho,Alimentação,135.22
+Outubro,Vestuário,433.21
+Janeiro,Despesas Diversas,433.21
+Junho,Educação,135.22
+Outubro,Despesas Diversas,77.31
+Dezembro,Alimentação,590.54
+Outubro,Despesas Diversas,361.61
+Março,Serviços Pessoais,1520.13
+Janeiro,Saúde,1381.46
+Novembro,Despesas Diversas,935.72
+Outubro,Serviços Pessoais,1135.65
+Maio,Alimentação,809.82
+Abril,Saúde,1346.97
+Janeiro,Alimentação,1185.85
+Novembro,Serviços Pessoais,312.8
+Abril,Serviços Pessoais,388.96
+Fevereiro,Transporte,21.88
+Junho,Saúde,1238.32
+Junho,Habilitação,809.82
+Março,Habilitação,564.98
+Janeiro,Habilitação,1623.26
+Março,Alimentação,100.63
+Março,Saúde,459.76
+Julho,Saúde,562.26
+Maio,Educação,435.7
+Fevereiro,Habilitação,60.4
+Abril,Educação,687.74
+Junho,Vestuário,1300.99
+Janeiro,Vestuário,999.75
+Agosto,Saúde,1321.19
+Setembro,Despesas Diversas,108.2
+Junho,Alimentação,1592.12
+Fevereiro,Alimentação,562.26
+Fevereiro,Alimentação,1346.97
+Março,Transporte,212.92
+Maio,Educação,108.2
+Março,Serviços Pessoais,12.45
+Maio,Alimentação,1518.9
+Agosto,Habilitação,391.05
+Dezembro,Serviços Pessoais,1330.83
+Janeiro,Serviços Pessoais,1467.51
+Junho,Serviços Pessoais,334.92
+Outubro,Despesas Diversas,562.26
+Outubro,Alimentação,312.8
+Agosto,Saúde,597.05
+Março,Saúde,543.88
+Maio,Vestuário,1498.52
+Julho,Educação,999.75
+Fevereiro,Alimentação,554.44
+Fevereiro,Educação,87.61
+Maio,Serviços Pessoais,12.45
+Maio,Serviços Pessoais,416.24
+Abril,Educação,597.05
+Setembro,Saúde,845.79
+Agosto,Educação,1238.32
+Abril,Educação,391.05
+Maio,Serviços Pessoais,999.75
+Fevereiro,Habilitação,1295.03
+Março,Vestuário,1137.36
+Março,Educação,1109.16
+Dezembro,Alimentação,433.21
+Outubro,Despesas Diversas,935.72
+Junho,Transporte,935.72
+Junho,Saúde,1411.8
+Fevereiro,Serviços Pessoais,1540.1
+Junho,Habilitação,1540.1
+Março,Despesas Diversas,118.13
+Março,Habilitação,1167.74
+Dezembro,Serviços Pessoais,590.54
+Outubro,Educação,590.54
+Junho,Habilitação,1429.1
+Fevereiro,Saúde,1265.6
+Janeiro,Despesas Diversas,94.26
+Julho,Serviços Pessoais,312.8
+Maio,Vestuário,772.85
+Fevereiro,Transporte,1551.98
+Outubro,Serviços Pessoais,1567.0
+Maio,Serviços Pessoais,202.39
+Agosto,Vestuário,772.85
+Janeiro,Educação,391.05
+Junho,Saúde,1135.65
+Maio,Transporte,60.4
+Julho,Vestuário,598.28
+Fevereiro,Serviços Pessoais,334.92
+Março,Transporte,710.21
+Dezembro,Educação,590.54
+Março,Saúde,87.61
+Julho,Alimentação,117.86
+Outubro,Habilitação,1381.46
+Setembro,Alimentação,604.12
