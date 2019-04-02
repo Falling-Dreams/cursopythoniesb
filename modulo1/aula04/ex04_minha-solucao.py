@@ -24,5 +24,5 @@ for a in range(len(frases)):
 	lista_md_ltr_plv.append(md_ltr_plv)
 
 print("Quantidade de palavras nas frases: ", lista_qtd_plv_frases)
-print("Quantidade de letras por fraase: ", lista_qtd_ltr_frases)
+print("Quantidade de letras por frase: ", lista_qtd_ltr_frases)
 print("Media de letras por palavra: " ,lista_md_ltr_plv)

@@ -3,22 +3,24 @@
 import math
 
 def equacao_segundo_grau(a, b, c):
+	raiz_det = 0
 	det = b*b - (4 * (a) * (c))
-	raiz_det = math.sqrt(det)
-	
 	if det < 0 : 
 		print("Nao existem raizes reais")
+		return None
+	else:
+		raiz_det = math.sqrt(det)
 		
-	elif det == 0 :
-		raiz = (-b + raiz_det / (2*a))
+	if det == 0:
+		raiz = (-b + raiz_det / (2 * a))
 		print("A equacao possui uma raiz real: " + raiz);
 		
-	else :
-			raiz1 = (-b + raiz_det / (2*a))
-			raiz2 = (-b - raiz_det / (2*a))
+	else:
+			raiz1 = (-b + raiz_det / (2 * a))
+			raiz2 = (-b - raiz_det / (2 * a))
 			raizes = raiz1, raiz2
 			return raizes;
 
 
 
-print(equacao_segundo_grau(1,7,8))
+print(equacao_segundo_grau(1,7,6))
