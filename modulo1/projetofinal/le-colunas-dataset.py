@@ -7,6 +7,6 @@ with open('googleplaystore.csv') as csvDataFile:
 		avaliacao.append(coluna[2])
 		#print((coluna[2]))
 
-print(sorted(avaliacao))		
+print(len(avaliacao))		
 #print(*linhas,sep='\n')
 		

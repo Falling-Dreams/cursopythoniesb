@@ -19,8 +19,12 @@ with open('googleplaystore.csv', encoding='utf-8') as arquivo:
 #print("II): " + "As categorias são:", sorted(categorias), "\n")
 
 #III) Qual a maior avaliação?
-avaliação = [(app["App"],app["Rating"]) for app in lista_aplicativos]
-maiores_avaliacoes = list(map(max, *avaliação))
-#print(list(map(max, *avaliação)))
-#print(*avaliação,sep='\n')
-print(maiores_avaliacoes)
+#app_avaliacoes = []
+app = [app["App"] for app in lista_aplicativos]
+avaliacoes = [avaliacoes["Rating"] for avaliacoes in lista_aplicativos]
+maior_avaliacao = max(avaliacoes)
+maiores_avaliacoes = [i for i, j in enumerate(avaliacoes) if j == maior_avaliacao]
+app_max = list(map(app.__getitem__, maiores_avaliacoes))
+print("A maior avaliação é: ", maior_avaliacao,". " +  "E os aplicativos com essa avaliação são:",sep="")
+print(*sorted(app_max),sep='\n')
+
