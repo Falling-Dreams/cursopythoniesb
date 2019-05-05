@@ -8,7 +8,7 @@ def manipula_dataset():
 			coluna.insert(0, app)
 			rating = (coluna.pop(2)).replace('NaN', '0').strip()
 			coluna.insert(2, rating)		
-			size = (coluna.pop(4)).replace('.', '').replace('k', '000').replace('M', '000000').replace('Varies with device', '0').strip()
+			size = (coluna.pop(4)).replace('.', '').replace('k', '000').replace('M', '000000').replace('Varies with device', '0').replace('+', '').replace(',','').strip()
 			coluna.insert(4, size)		
 			installs = (coluna.pop(5)).replace(',', '').replace('+', '').strip()
 			coluna.insert(5, installs)

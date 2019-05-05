@@ -1,12 +1,11 @@
 import csv
 linhas = []
-avaliacao = []
+atualizacao = []
 with open('googleplaystore.csv') as csvDataFile:	
 	csvReader = csv.reader(csvDataFile)
 	for coluna in csvReader:
-		avaliacao.append(coluna[2])
-		#print((coluna[2]))
+		atualizacao.append(coluna[10])
+		#print((coluna[4]))
 
-print(len(avaliacao))		
-#print(*linhas,sep='\n')
-		
+print(*atualizacao,sep='\n')
+#print(tamanho[10472])
