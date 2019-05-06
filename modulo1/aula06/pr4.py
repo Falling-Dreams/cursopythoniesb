@@ -5,4 +5,4 @@ record_temperatura = dict(record_temperatura)
 #for i in record_temperatura.items():
 		#print(record_temperatura.key)
 
-print(record_temperatura.keys())
+print(record_temperatura.items())
