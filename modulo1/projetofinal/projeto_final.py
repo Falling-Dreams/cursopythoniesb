@@ -1,7 +1,5 @@
 # -*- coding: UTF-8 -*-
 import limpa_dataset
-from collections import Counter
-import itertools
 limpa_dataset.manipula_dataset()
 lista_aplicativos = []
 lista_temp = []
@@ -42,19 +40,25 @@ app = [app["App"] for app in lista_aplicativos]
 #print(*sorted(set(app_tamanho)),sep=',')
 #print('\n')
 
-#V) Qual é a categoria com mais aplicativos?
+#V) Qual é a categoria com mais aplicativos? -OK
 qtd_app_categoria = dict()
 for categoria in categorias:
   qtd_app_categoria[categoria] = qtd_app_categoria.get(categoria, 0) + 1
-print("V): " + "A categoria com mais aplicativos é:", max(qtd_app_categoria, key=qtd_app_categoria.get), "\n")
+#print("V): " + "A categoria com mais aplicativos é:", max(qtd_app_categoria, key=qtd_app_categoria.get), "\n")
+#print(qtd_app_categoria)
 
 #VI) Qual é a média de avaliação em cada categoria?***
-#categoria_avaliacao = [(categoria["Category"], float(categoria["Rating"])) for categoria in lista_aplicativos]
-#qtd_app_avaliacao = sorted(Counter([(x) for (x,y) in categoria_avaliacao]).items())
-#soma = [(k, float(sum([y for (x,y) in categoria_avaliacao if x == k]))) for k in dict(categoria_avaliacao).keys()]
-#media_avaliacao = ((x[0], y[1]//x[1]) for x, y in zip(qtd_app_avaliacao, soma))
-#print("VI): " + "As médias das avaliações em cada categoria são:" ,*media_avaliacao,sep='\n')
-#print('\n')
+categoria_avaliacao = [[categoria["Category"], (float(categoria["Rating"]))] for categoria in lista_aplicativos]
+avaliacao_soma = dict()
+qtd_avaliacao = dict()
+for categoria,avaliacao in categoria_avaliacao:
+	avaliacao_soma[categoria] = avaliacao_soma.get(categoria, 0) + avaliacao
+for categoria,avaliacao in categoria_avaliacao:
+	if avaliacao != 0 :
+		qtd_avaliacao[categoria] = qtd_avaliacao.get(categoria, 0) + 1
+media_avaliacao = [i/j for (i,j) in zip(avaliacao_soma.values(), qtd_avaliacao.values())]
+#print(*categoria_avaliacao,sep='\n')
+print(media_avaliacao)
 
 #VII) Daqueles com avaliação maior que 4, qual o conteudo indicativo com mais aplicativos?
 
