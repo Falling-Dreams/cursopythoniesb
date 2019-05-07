@@ -1,11 +1,11 @@
 import csv
 linhas = []
-avaliacao = []
+audiencia = []
 with open('googleplaystore_original.csv') as csvDataFile:	
 	csvReader = csv.reader(csvDataFile)
 	for coluna in csvReader:
-		avaliacao.append(coluna[2])
+		audiencia.append(coluna[8])
 		#print((coluna[4]))
 
-print(*sorted(avaliacao),sep='\n')
+print(*set(audiencia),sep='\n')
 
