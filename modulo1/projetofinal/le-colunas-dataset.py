@@ -1,11 +1,11 @@
 import csv
 linhas = []
-audiencia = []
-with open('googleplaystore_original.csv') as csvDataFile:	
+avaliacao = []
+with open('googleplaystore.csv') as csvDataFile:	
 	csvReader = csv.reader(csvDataFile)
 	for coluna in csvReader:
-		audiencia.append(coluna[8])
+		avaliacao.append(float(coluna[2]))
 		#print((coluna[4]))
 
-print(*set(audiencia),sep='\n')
-
+#print(sum(avaliacao)/len(avaliacao))
+print(avaliacao)

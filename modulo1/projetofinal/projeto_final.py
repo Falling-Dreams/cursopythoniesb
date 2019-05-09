@@ -1,5 +1,6 @@
 # -*- coding: UTF-8 -*-
 import limpa_dataset
+import math
 limpa_dataset.manipula_dataset()
 lista_aplicativos = []
 lista_temp = []
@@ -68,7 +69,11 @@ for audiencia in app_audiencia:
 print("VII): " + "O conteudo indicativo com mais aplicativos é:", max(qtd_app_audiencia, key=qtd_app_audiencia.get), "\n")
 '''
 #VIII) Qual o desvio padrão da coluna de avaliações?
-
+avaliacao = [float(avaliacao["Rating"]) for avaliacao in lista_aplicativos if float(avaliacao["Rating"]) > 0]
+media = (sum(avaliacao))/len(avaliacao)
+passo2 = [(n - media)**2 for n in avaliacao]
+desvio_padrao = math.sqrt((sum(passo2))/len(avaliacao))
+print("VIII): O desvio padrão é:" ,desvio_padrao)
 
 #IX) Quantos aplicativos foram atualizados em janeiro de 2018?
 #app_atualizacao = [(atualizacao["App"], str(atualizacao["Last Updated"])) for atualizacao in lista_aplicativos]
