@@ -1,11 +1,11 @@
 import csv
 
-tamanho = []
+avaliacao = []
 with open('googleplaystore.csv') as csvDataFile:	
 	csvReader = csv.reader(csvDataFile)
 	for coluna in csvReader:
-		tamanho.append(int(coluna[4]))
+		avaliacao.append(float(coluna[2]))
 
-print(max(tamanho))
+print((avaliacao))
 
 
