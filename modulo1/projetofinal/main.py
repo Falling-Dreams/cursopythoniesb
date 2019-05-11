@@ -52,6 +52,6 @@ def main():
 			else:
 				print("Este número não está nas alternativas, tente novamente." + "\n")	
 		except ValueError:
-			print("Isso não é um número, tente novamente :D.\n")
+			print("Isso não é um número, tente novamente.\n")
 if __name__ == '__main__':
 	main()
