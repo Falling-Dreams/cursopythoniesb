@@ -1,14 +1,18 @@
 def limpar_dataset():
-	'''Funcao auxiliar para o projeto final, limpa as colunas App,Rating,Size,Installs e Last Updated
-	do dataset googleplaystore.csv.
+	'''Funcao auxiliar para o projeto final.
 
-	Parametros:
+	Limpa as colunas App,Rating,Size,Installs e Last Updated do dataset googleplaystore.csv.
+
+	Parameters
 	----------
 	void
-	
-	Retorna:
-	----------
+
+	Returns
+	-------
 	void
+
+	Raises
+	------
 
 	'''
 	import csv

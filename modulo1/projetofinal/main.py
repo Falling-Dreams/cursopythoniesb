@@ -1,10 +1,10 @@
 # -*- coding: UTF-8 -*-
-# TODO menu para escolha das opcoes
-# TODO ao selecionar uma opcao, volar ao menu de opcoes (escolher mais de um item sem precisar executar o programa mais de uma vez)
-# TODO constuir menu
+"""Projeto Final - Curso Python IESB - Modulo 01 - Main
+
+Arquivo que exibe na tela as respostas aos itens do projeto final.
+"""
 
 import projeto_final
-import manipula_dataset
 
 def main():
 	opcao = -2
@@ -22,11 +22,11 @@ def main():
 			7  -  Conteúdo indicativo com mais aplicativos maiores do que 4
 			8  -  Desvio padrão das avaliações
 			9  -  Quantidade de aplicativos atualizados em janeiro de 2018
-			10 -  Colunas do dataset em valores númericos
+			10 -  Colunas do dataset em valores númericos (executar apenas uma vez)
 			-1 -  Para sair
 			Escolha: '''))
 			if opcao == 0:
-				manipula_dataset.limpar_dataset()
+				projeto_final.pre_processamento()
 			elif opcao == 1:
 				projeto_final.item1()
 			elif opcao == 2:
@@ -50,7 +50,7 @@ def main():
 			elif opcao == -1:
 				exit()		
 			else:
-				print("Este número não está nas alternativas, tente novamente." + "\n")	
+				print("Este número não está nas alternativas, tente novamente.\n")	
 		except ValueError:
 			print("Isso não é um número, tente novamente.\n")
 if __name__ == '__main__':

@@ -1,11 +1,11 @@
 import csv
 
-avaliacao = []
+current_version = []
 with open('googleplaystore.csv') as csvDataFile:	
 	csvReader = csv.reader(csvDataFile)
 	for coluna in csvReader:
-		avaliacao.append(float(coluna[2]))
+		current_version.append(coluna[1])
 
-print((avaliacao))
+print((current_version))
 
 

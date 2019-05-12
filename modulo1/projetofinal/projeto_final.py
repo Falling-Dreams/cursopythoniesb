@@ -5,13 +5,10 @@ Após avaliar os itens solicitados e o dataset, concluí que a melhor estrutura 
 em que cada índice é um aplicativo, descrito por um dicionário no qual, as chaves são os atributos do aplicativo e o valor são os dados
 de cada aplicativo.
 """
-# TODO aplicar PEP 8 ao codigo
-# TODO criar uma funcao para responder ao item x
-# D.R.Y. The acronym stands for the programming maxim “Don’t Repeat Yourself.”
-# TODO utilizar format para apresentar um numero mais limpo para aqueles itens que envolvem operacoes matematicas
-# TODO tratar excecoes
 
 import math
+import processar_dataset
+import item_x
 
 lista_aplicativos = []
 chaves = ['App','Category','Rating','Reviews','Size','Installs','Type','Price','Content Rating','Genres','Last Updated','Current Ver',
@@ -22,6 +19,24 @@ with open('googleplaystore.csv', encoding='utf-8') as dataset:
 		valor_app = linha_csv.strip().split(',')	
 		aplicativo = {k:v for (k,v) in zip(chaves, valor_app)}
 		lista_aplicativos.append(aplicativo)
+
+def pre_processamento():
+	'''Executa a limpeza do dataset.
+	
+	Parameters
+	----------
+	void
+
+	Returns
+	-------
+	void
+
+	Raises
+	------
+
+	'''
+	
+	processar_dataset.limpar_dataset()
 
 def item1():
 	'''Printa a quantidade de aplicativos.
@@ -256,4 +271,4 @@ def item10():
 	------
 
 	'''
-	print("\t\t\tX): Em construção...")
+	item_x.valor_numerico()
