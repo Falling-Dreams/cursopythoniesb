@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 """
 Avaliado por: Rodrigo Guimarãeas
 Nota: 10
@@ -25,3 +26,12 @@ print("Divisao: ", a / b)
 
 #Potencia
 print("Potencia a^b: ", a**b)
+=======
+#5. Crie uma calculadora capaz de fazer as operacoes de soma, subtracao, 
+#multiplicacao, divisao e potencia entre dois números.
+
+a = int(input("Informe o primeiro numero: "))
+b = int(input("Informe o segundo numero: "))
+
+#Soma
+>>>>>>> 15d53fbe328eb4129d8f8787b9729d2a34e1c8a9
