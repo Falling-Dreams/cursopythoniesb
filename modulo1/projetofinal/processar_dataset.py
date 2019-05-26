@@ -19,7 +19,7 @@ def limpar_dataset():
 	
 	linhas_csv = []
 	try:
-		with open('googleplaystore.csv') as csvDataFile:	
+		with open('/home/kevin/cursopythoniesb/modulo1/projetofinal/googleplaystore.csv') as csvDataFile:	
 			csvReader = csv.reader(csvDataFile)
 			next(csvDataFile)
 			for coluna_csv in csvReader:

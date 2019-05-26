@@ -14,7 +14,7 @@ lista_aplicativos = []
 chaves = ['App','Category','Rating','Reviews','Size','Installs','Type','Price','Content Rating','Genres','Last Updated','Current Ver',
 'Android Ver']
 # Retira os espacos em brancos e quebra de linhas separando os valores a cada virgula
-with open('googleplaystore.csv', encoding='utf-8') as dataset:
+with open('/home/kevin/cursopythoniesb/modulo1/projetofinal/googleplaystore.csv', encoding='utf-8') as dataset:
 	for linha_csv in dataset:
 		valor_app = linha_csv.strip().split(',')	
 		aplicativo = {k:v for (k,v) in zip(chaves, valor_app)}
