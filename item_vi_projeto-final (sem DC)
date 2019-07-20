@@ -1,0 +1,44 @@
+#III) Qual a maior avaliação?
+app_avaliacao = {app["App"]: (float(app["Rating"])) for app in lista_aplicativos if float(app["Rating"]) >= 5.0}
+app = [app["App"] for app in lista_aplicativos]
+avaliacoes = [avaliacoes["Rating"] for avaliacoes in lista_aplicativos]
+maior_avaliacao = max(avaliacoes) # Diminui o tempo de execucao, ao contrario de calcular o valor sempre que necessario
+maiores_avaliacoes = [i for i, j in enumerate(avaliacoes) if j == maior_avaliacao]
+maiores_avaliacoes_app = list(map(app.__getitem__, maiores_avaliacoes))
+print("III): " + "A maior avaliação é: ", maior_avaliacao,". " +  "E os aplicativos com essa avaliação são:",sep="")
+print((*sorted(maiores_avaliacoes_app)),sep=' ,')
+
+IV)
+app = [app["App"] for app in lista_aplicativos]
+tamanho_aplicativo = [int(tamanho["Size"]) for tamanho in lista_aplicativos]
+aplicativo_tamanho = {k:v for (k, v) in zip(app, tamanho_aplicativo)}
+maior_tamanho = max(aplicativo_tamanho.values())
+maiores_app = [i for i,j in enumerate(tamanho_aplicativo) if j == maior_tamanho]
+app_tamanho = list(map(app.__getitem__, maiores_app))
+print("IV): " + "O maior tamanho de aplicativo é: ", (maior_tamanho//1000000), "M" ,". " +  "E os aplicativos com esse tamanho são:",sep="")
+print(*sorted(set(app_tamanho)),sep='\n')
+
+#VI) Qual é a média de avaliação em cada categoria?
+categoria_avaliacao = [[categoria["Category"], (float(categoria["Rating"]))] for categoria in lista_aplicativos]
+avaliacao_soma = dict()
+for categoria,avaliacao in categoria_avaliacao:
+	avaliacao_soma[categoria] = avaliacao_soma.get(categoria, 0) + avaliacao
+#avaliacao_soma = {categoria: (avaliacao_soma.get(categoria, 0) + avaliacao) for categoria, avaliacao in categoria_avaliacao}
+qtd_avaliacao = dict()
+#qtd_avaliacao = {categoria: (qtd_avaliacao.get(categoria, 0) + 1) for categoria,avaliacao in categoria_avaliacao if avaliacao != 0}
+for categoria,avaliacao in categoria_avaliacao:
+	if avaliacao != 0 :
+		qtd_avaliacao[categoria] = qtd_avaliacao.get(categoria, 0) + 1
+media_avaliacao = [i/j for (i,j) in zip(avaliacao_soma.values(), qtd_avaliacao.values())]
+media_avaliacao_categoria = list(zip(qtd_avaliacao.keys(),media_avaliacao))
+print("VI): A média de avaliação em cada categoria é:")
+print(*media_avaliacao_categoria,sep='\n')
+
+
+#VII) Daqueles com avaliação maior que 4, qual o conteudo indicativo com mais aplicativos?
+app_audiencia = [audiencia["Content Rating"] for audiencia in lista_aplicativos if float(audiencia["Rating"]) >= 4]
+qtd_app_audiencia = dict()
+#for audiencia in app_audiencia:
+  #qtd_app_audiencia[audiencia] = qtd_app_audiencia.get(audiencia, 0) + 1
+qtd_app_audiencia = {audiencia: (qtd_app_audiencia.get(audiencia, 0) + 1) for audiencia in app_audiencia}
+print("VII): " + "O conteudo indicativo com mais aplicativos é:", max(qtd_app_audiencia, key=qtd_app_audiencia.get), "\n")
